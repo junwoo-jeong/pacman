@@ -1,4 +1,7 @@
 # pacman in java
+이 프로젝트는 MVC 디자인 패턴을 고려하여 제작된 java swing 기반 non-framework 프로그램입니다.
+ORM([Object Relational mapping](https://github.com/smallThinking/pacman/blob/master/src/CharacterUML.jpg))은 이곳에서 확인할 수 있습니다.
+このプロジェクトはMVC Pattern
 
 ## Core Technology
 Following technologies are used in this project (some are omitted)
