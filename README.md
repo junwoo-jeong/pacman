@@ -2,7 +2,7 @@
 이 프로젝트는 객체 지향 프로그래밍 기법과 MVC 디자인 패턴을 고려하여 제작된 java swing 기반 non-framework 프로그램입니다.
 このプロジェクトはMVCデザインパタン
 ORM([pacman ORM](https://github.com/smallThinking/pacman/blob/master/src/CharacterUML.jpg))은 이곳에서 확인할 수 있습니다.
-Model은 Character package가 담당합니다. 각 클래스들은 자신의 위치 좌표, 모델간의 상호작용, 
+Model은 Character package가 담당합니다. 각 클래스들은 자신의 위치 좌표, 모델간의 상호작용 등을 담당하고 있습니다.
 ## Core Technology
 Following technologies are used in this project (some are omitted)
 
